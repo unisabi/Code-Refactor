@@ -15,3 +15,4 @@ https://medium.com/@justynagolawska/how-to-easily-add-screenshots-into-your-read
 sabinasiete@gmail.com
 
 ## Screenshot
+![pic](assets/images/pic.png)
